@@ -1,0 +1,15 @@
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/minibuild/zlib.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/minibuild/openssl.git
+[submodule "libmagic"]
+	path = libmagic
+	url = https://github.com/minibuild/libmagic.git
+[submodule "jansson"]
+	path = jansson
+	url = https://github.com/minibuild/jansson.git
+[submodule "yara"]
+	path = yara
+	url = https://github.com/minibuild/yara.git
